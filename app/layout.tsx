@@ -32,9 +32,9 @@ export const metadata: Metadata = {
       "Academic excellence rooted in Spiritan tradition, from Grade 1 to Grade 12.",
   },
   icons: {
-    icon: "/spiritan_logo.jpg",
-    shortcut: "/spiritan_logo.jpg",
-    apple: "/spiritan_logo.jpg",
+    icon: "/icon.jpg",
+    shortcut: "/icon.jpg",
+    apple: "/apple-icon.jpg",
   },
 };
 

@@ -15,7 +15,7 @@ Modern multi-page school platform built with Next.js (App Router + TypeScript), 
 npm install
 ```
 
-2. Copy env example and set your local site URL:
+1. Copy env example and set your local site URL:
 
 ```bash
 copy .env.example .env.local
@@ -27,13 +27,13 @@ Then set:
 NEXT_PUBLIC_SITE_URL=http://localhost:3000
 ```
 
-3. Run dev server:
+1. Run dev server:
 
 ```bash
 npm run dev
 ```
 
-Open http://localhost:3000
+Open [http://localhost:3000](http://localhost:3000)
 
 ## Quality Checks
 

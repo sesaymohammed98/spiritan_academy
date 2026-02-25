@@ -52,7 +52,7 @@ export function SiteHeader() {
         <button
           type="button"
           className={`menu-toggle ${isMenuOpen ? "menu-open" : ""}`}
-          aria-expanded={isMenuOpen}
+          aria-expanded={isMenuOpen ? "true" : "false"}
           aria-controls="main-site-nav"
           aria-label="Toggle navigation menu"
           onClick={() => setIsMenuOpen((previous) => !previous)}
